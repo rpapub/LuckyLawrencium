@@ -1,0 +1,13 @@
+﻿{
+  "Name": "StandardOperatorDivide",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "nbf_q_QBYk6vataACPl7Ew",
+  "Reference": "VghXUu22RkytYUIM7zleTQ/nbf_q_QBYk6vataACPl7Ew",
+  "ParentRef": "VghXUu22RkytYUIM7zleTQ/ir_y_i3P7kGORJmCYX-i5g",
+  "Created": "2024-01-08T13:24:11.7057413Z",
+  "Updated": "2024-01-08T13:24:11.7057413Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Backspace",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "r92zrA8-F0K8xt0B536QNw",
+  "Reference": "VghXUu22RkytYUIM7zleTQ/r92zrA8-F0K8xt0B536QNw",
+  "ParentRef": "VghXUu22RkytYUIM7zleTQ/_odrX77XmUqbYlG4rs-RZA",
+  "Created": "2024-01-08T13:24:11.1570325Z",
+  "Updated": "2024-01-08T13:24:11.1570325Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

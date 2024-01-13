@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CDSJiiu0mE-6ml5xU2pStQ" Reference="4H7v2y-_ckukUVUgsCLfXw/qK8v0eWueUybDtl7RMKlGw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="90, 477, 78, 52" CvTextArea="123, 495, 12, 17" CvTextArgument="0" CvType="Button" DesignTimeRectangle="12, 425, 77, 51" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'1'" FullSelectorArgument="[string.Format(&quot;&lt;uia cls='LandmarkTarget' /&gt;&lt;uia automationid='NumberPad' cls='NamedContainerAutomationPeer' name='Number pad' /&gt;&lt;uia automationid='num{0}Button' cls='Button' /&gt;&quot;, Number)]" FuzzySelectorArgument="&lt;uia cls='LandmarkTarget' /&gt;&lt;uia automationid='NumberPad' cls='NamedContainerAutomationPeer' name='Number pad' /&gt;&lt;uia automationid='num1Button' cls='Button' name='One' role='button' check:fulltext='1' /&gt;" Guid="b7cc6b52-3858-4c54-b2ac-6601300a266e" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAFEAAAA3CAYAAAB0IqZxAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFjSURBVHhe7dtRioIAFIXh2Uc7aAktxR24oPbRQtqBGfRQkFoKgg+G3OGKI6nM1OR5mIb/hwMFPn3YW/ejLEtj8waiYBPEoigsSRI7Ho9stCzLWp+x2QDxfD7b5XKxuq6NprmL+7jTvVuP6ML+AD1u/Eb2iGma2u126x6jn/I30r0miP6bp+dqmsZOpxOIc3MvEGcGoiAQBYEoCERBIAoCURCIgkAUBKIgEAWBKAhEQSAKeivE9XptQRB03/5Ob4G42WxstVrZYrEA8ZXCMLTlctm/hSC+0OFwsOv12n4GURCIgkAUBKIgEAWBKAhEQSAKAlEQiP84EAWBKAhEQSAKAlEQiIJAFASiIBAFgSgIREEgCgJxZt9eVPl5Lrd9z+W3fX4kOUHM87yFpMf5qa57TRB9URS1/z6oqqp7nO5zF/eJ47g38w0QfX6Cut/vbbvdstF2u93gRPdrE0T2+4E4e6V9Au+ucqoAEsk6AAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='Microsoft.WindowsCalculator_8wekyb3d8bbwe!App' title='Calculator' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="999f88f1c2c1ee560958cb27dc6ca3cb.png" xmlns="">0P0DI6o8SiUaaLeZMpMKJHw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="Number" />
+    </scg:List>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

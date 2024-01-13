@@ -1,0 +1,16 @@
+﻿{
+  "Name": "mode",
+  "Type": "Element",
+  "TaxonomyType": "Text",
+  "Id": "iAQl26POP0mJM3m5npvJUA",
+  "Reference": "VghXUu22RkytYUIM7zleTQ/iAQl26POP0mJM3m5npvJUA",
+  "ParentRef": "VghXUu22RkytYUIM7zleTQ/mJRAR2uZYkuKn86Y-X0NGg",
+  "Created": "2024-01-08T13:24:11.1961899Z",
+  "Updated": "2024-01-08T13:24:11.1961899Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

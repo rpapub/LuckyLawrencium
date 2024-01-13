@@ -1,0 +1,13 @@
+﻿{
+  "Name": "StandardOperatorPlus",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "37i9NuVG30aXvqb1RWVwXw",
+  "Reference": "VghXUu22RkytYUIM7zleTQ/37i9NuVG30aXvqb1RWVwXw",
+  "ParentRef": "VghXUu22RkytYUIM7zleTQ/ir_y_i3P7kGORJmCYX-i5g",
+  "Created": "2024-01-08T13:24:11.8297741Z",
+  "Updated": "2024-01-08T13:24:11.8297741Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

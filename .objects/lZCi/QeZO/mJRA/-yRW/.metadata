@@ -1,0 +1,16 @@
+﻿{
+  "Name": "modeStandardCalculator",
+  "Type": "Element",
+  "TaxonomyType": "Text",
+  "Id": "-yRW08hNS0CxE8zAOwyH7Q",
+  "Reference": "VghXUu22RkytYUIM7zleTQ/-yRW08hNS0CxE8zAOwyH7Q",
+  "ParentRef": "VghXUu22RkytYUIM7zleTQ/mJRAR2uZYkuKn86Y-X0NGg",
+  "Created": "2024-01-08T13:24:11.229257Z",
+  "Updated": "2024-01-08T13:24:11.229257Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

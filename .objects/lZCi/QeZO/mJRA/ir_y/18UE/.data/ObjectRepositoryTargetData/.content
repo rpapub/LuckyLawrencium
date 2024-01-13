@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BWZZzGWIokmXxZGzEplHkA" Reference="VghXUu22RkytYUIM7zleTQ/18UE31ck2E-DWBTcZpcy_A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="247, 424, 76, 51" CvTextArea="278, 443, 15, 15" CvTextArgument="+" CvType="Button" DesignTimeRectangle="248, 425, 76, 51" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="''" FullSelectorArgument="[string.Format(&quot;&lt;uia cls='LandmarkTarget' /&gt;&lt;uia automationid='StandardOperators' cls='NamedContainerAutomationPeer' name='Standard operators' /&gt;&lt;uia automationid='{0}Button' cls='Button' /&gt;&quot;, StandardOperator)]" FuzzySelectorArgument="&lt;uia cls='LandmarkTarget' /&gt;&lt;uia automationid='StandardOperators' cls='NamedContainerAutomationPeer' name='Standard operators' /&gt;&lt;uia automationid='plusButton' cls='Button' name='Plus' role='button' check:fulltext='' /&gt;" Guid="92853c92-f060-4018-a038-a0a10e4d215a" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAFAAAAA3CAYAAACb4M1PAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFXSURBVHhe7dtNioMwHIbxOYc38P7X8AZaXCl+LFRE0VWGv9BWa2Q+Xhgr8yx+G5t08ZAQRPLR973D7xFQtAvYtq2rqsplWYaVuq6XNq+9NgHLslwGDsPg5nnGijWxNtZo3ewR0OraAN9kPNnuXK/ER0D7YRxH7yQ83VfiLqDtc98EbE3T5PI8J6DCWhFQQEARAUUEFBFQREARAUUEFBFQREARAUUEFBFQdJmARVF4n5/tMgHDMPQ+P9tlAgZB4H1+NgKKCCgioOjtAtppaweGBfuKjUuSxPs/f4UVKCKgiIAiAoouE5A3EdHZp+2RywR8VwQUEVBEQBEBRQQUEVBEQBEBRQQUEVBEQBEBRQQUEVBweFOJu3Lfc3hXrmma5SqnbxKe7BOstdoFNHEcuzRNXdd13sn/mTWxNrfb7dHLbAIaW542KIoirNjnhfXWvdsFxM8QUNK7T26NnwSZRQw2AAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='Microsoft.WindowsCalculator_8wekyb3d8bbwe!App' title='Calculator' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a89d00d3cf81a6e2241fc1b855cf004c.png" xmlns="">0esJ1nP5j4USYxhrLH9gOIw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="StandardOperator" />
+    </scg:List>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
