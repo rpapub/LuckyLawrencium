@@ -4,15 +4,16 @@
   "description": "UiPath Studio Object Repository Descriptor Library for the Windows Calculator.",
   "main": "NewActivity.xaml",
   "dependencies": {
-    "UiPath.System.Activities": "23.10.2",
-    "UiPath.Testing.Activities": "23.10.0",
-    "UiPath.UIAutomation.Activities": "23.10.3"
+    "UiPath.CodedWorkflows": "[24.4.2]",
+    "UiPath.System.Activities": "24.5.0-preview",
+    "UiPath.Testing.Activities": "24.4.0-preview",
+    "UiPath.UIAutomation.Activities": "24.4.2-preview"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "23.10.0.0",
-  "projectVersion": "0.1.2",
+  "projectVersion": "0.1.5",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -38,7 +39,8 @@
       "includeOriginalXaml": false,
       "privateWorkflows": [
         "RnD/RnD_gitkeep.xaml",
-        "RnD/RnD_SimpleAddition.xaml"
+        "RnD/RnD_SimpleAddition.xaml",
+        "RnD/RnD.cs"
       ]
     },
     "processOptions": {
