@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wUxzUG7nY0G5B7Hpwmfrcg" Reference="VghXUu22RkytYUIM7zleTQ/r92zrA8-F0K8xt0B536QNw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="247, 212, 76, 53" CvType="Button" DesignTimeRectangle="265, 213, 82, 51" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="''" FullSelectorArgument="&lt;uia cls='LandmarkTarget' /&gt;&lt;uia automationid='DisplayControls' cls='NamedContainerAutomationPeer' /&gt;&lt;uia automationid='backSpaceButton' cls='Button' /&gt;" FuzzySelectorArgument="&lt;uia cls='LandmarkTarget' /&gt;&lt;uia automationid='DisplayControls' cls='NamedContainerAutomationPeer' /&gt;&lt;uia automationid='backSpaceButton' cls='Button' role='button' check:fulltext='' /&gt;" Guid="0f1ccc1d-29f1-44b6-a692-348cd82843e0" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='Microsoft.WindowsCalculator_8wekyb3d8bbwe!App' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6204a0e655dd629d544cab79c00bcf49.png" xmlns="">09PbcbJTOHE2P07dJH8ZPFg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

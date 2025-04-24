@@ -1,0 +1,16 @@
+﻿{
+  "Name": "DisplayControls",
+  "Type": "Element",
+  "TaxonomyType": "Group",
+  "Id": "_odrX77XmUqbYlG4rs-RZA",
+  "Reference": "VghXUu22RkytYUIM7zleTQ/_odrX77XmUqbYlG4rs-RZA",
+  "ParentRef": "VghXUu22RkytYUIM7zleTQ/mJRAR2uZYkuKn86Y-X0NGg",
+  "Created": "2024-01-08T13:24:11.1205972Z",
+  "Updated": "2024-01-08T13:24:11.1205972Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

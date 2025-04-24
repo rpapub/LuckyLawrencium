@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4wlTK4LGG0iq_5LuzbMfEg" Reference="VghXUu22RkytYUIM7zleTQ/ONvO4iqBLU-_qYoCQz074g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="12, 318, 77, 52" CvTextArea="45, 337, 11, 16" CvTextArgument="7" CvType="Button" DesignTimeRectangle="12, 319, 251, 210" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'0 1 2 3 4 5 6 7 8 9 ,'" FullSelectorArgument="&lt;uia cls='LandmarkTarget' /&gt;&lt;uia automationid='NumberPad' cls='NamedContainerAutomationPeer' /&gt;" FuzzySelectorArgument="&lt;uia cls='LandmarkTarget' /&gt;&lt;uia automationid='NumberPad' cls='NamedContainerAutomationPeer' role='group' check:fulltext='0&amp;#x9;&amp;#xA;1&amp;#x9;&amp;#xA;2&amp;#x9;&amp;#xA;3&amp;#x9;&amp;#xA;4&amp;#x9;&amp;#xA;5&amp;#x9;&amp;#xA;6&amp;#x9;&amp;#xA;7&amp;#x9;&amp;#xA;8&amp;#x9;&amp;#xA;9&amp;#x9;&amp;#xA;,' /&gt;" Guid="34eebd3a-e332-4566-835f-fb3990192076" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='Microsoft.WindowsCalculator_8wekyb3d8bbwe!App' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f37a8dc30087d027024b77169ee93fd1.png" xmlns="">02wTJ5k2HBU2z251syj6cOQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

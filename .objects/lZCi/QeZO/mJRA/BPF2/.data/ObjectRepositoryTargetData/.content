@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="bGFaPk2jAU28QYLl6tqI0w" Reference="VghXUu22RkytYUIM7zleTQ/BPF20wJwTk2TXVGFOmoYCA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvTextArea="289, 118, 27, 39" CvTextArgument="2" CvType="Text" DesignTimeRectangle="8, 104, 343, 75" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'0'" FullSelectorArgument="&lt;uia cls='LandmarkTarget' /&gt;&lt;uia automationid='CalculatorResults' /&gt;" FuzzySelectorArgument="&lt;uia cls='LandmarkTarget' /&gt;&lt;uia automationid='CalculatorResults' role='text' check:fulltext='0' /&gt;" Guid="36967884-70ae-4f54-8b7f-b9901c381636" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='Microsoft.WindowsCalculator_8wekyb3d8bbwe!App' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ebfc01a177ab89b95716cdfbb5c25b5b.png" xmlns="">0ve9iwWY2BkumXX9qxWZCwA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UjSEDiZ_jEq0n9b_eozbqA" Reference="VghXUu22RkytYUIM7zleTQ/-aojbyTjDkKKwSX3gyqAJQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="90, 477, 78, 52" CvTextArea="123, 495, 12, 17" CvTextArgument="0" CvType="Button" DesignTimeRectangle="181, 372, 82, 51" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'6'" FullSelectorArgument="&lt;uia cls='LandmarkTarget' /&gt;&lt;uia automationid='NumberPad' cls='NamedContainerAutomationPeer' /&gt;&lt;uia automationid='num6Button' cls='Button' /&gt;" FuzzySelectorArgument="&lt;uia cls='LandmarkTarget' /&gt;&lt;uia automationid='NumberPad' cls='NamedContainerAutomationPeer' /&gt;&lt;uia automationid='num6Button' cls='Button' role='button' check:fulltext='6' /&gt;" Guid="b7cc6b52-3858-4c54-b2ac-6601300a266e" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='Microsoft.WindowsCalculator_8wekyb3d8bbwe!App' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ce57db7625c6bfe3120e38838ac60ac9.png" xmlns="">0PhBmZk9EbE6atc8AeZmIuQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

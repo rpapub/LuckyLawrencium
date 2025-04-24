@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Standard",
+  "Description": "Without localized title",
+  "Type": "Screen",
+  "Id": "mJRAR2uZYkuKn86Y-X0NGg",
+  "Reference": "VghXUu22RkytYUIM7zleTQ/mJRAR2uZYkuKn86Y-X0NGg",
+  "ParentRef": "VghXUu22RkytYUIM7zleTQ/QeZOIXmOaU-OPUY0SwNRhA",
+  "Created": "2024-01-08T13:24:11.0182991Z",
+  "Updated": "2024-01-08T13:24:11.0182991Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

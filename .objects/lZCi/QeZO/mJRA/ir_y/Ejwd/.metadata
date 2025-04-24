@@ -1,0 +1,13 @@
+﻿{
+  "Name": "StandardOperatorMultiply",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "EjwdytftV0-Cw_mn9mKznA",
+  "Reference": "VghXUu22RkytYUIM7zleTQ/EjwdytftV0-Cw_mn9mKznA",
+  "ParentRef": "VghXUu22RkytYUIM7zleTQ/ir_y_i3P7kGORJmCYX-i5g",
+  "Created": "2024-01-08T13:24:11.7961581Z",
+  "Updated": "2024-01-08T13:24:11.7961581Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

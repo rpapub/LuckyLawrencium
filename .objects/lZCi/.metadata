@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Calculator",
+  "Description": "Windows Calculator: A simple yet powerful calculator that ships with Windows.\r\n\r\nhttps://github.com/microsoft/calculator",
+  "Type": "App",
+  "Id": "lZCiVWJtT0WIT4f9IOkz1w",
+  "Reference": "VghXUu22RkytYUIM7zleTQ/lZCiVWJtT0WIT4f9IOkz1w",
+  "Created": "2024-01-08T13:24:10.9317403Z",
+  "Updated": "2024-01-08T16:20:59.4401348Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

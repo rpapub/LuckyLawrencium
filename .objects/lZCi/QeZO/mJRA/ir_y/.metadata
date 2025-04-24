@@ -1,0 +1,16 @@
+﻿{
+  "Name": "StandardOperators",
+  "Type": "Element",
+  "TaxonomyType": "Group",
+  "Id": "ir_y_i3P7kGORJmCYX-i5g",
+  "Reference": "VghXUu22RkytYUIM7zleTQ/ir_y_i3P7kGORJmCYX-i5g",
+  "ParentRef": "VghXUu22RkytYUIM7zleTQ/mJRAR2uZYkuKn86Y-X0NGg",
+  "Created": "2024-01-08T13:24:11.674654Z",
+  "Updated": "2024-01-08T13:24:11.674654Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

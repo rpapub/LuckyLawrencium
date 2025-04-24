@@ -1,0 +1,16 @@
+﻿{
+  "Name": "CalculatorResults",
+  "Type": "Element",
+  "TaxonomyType": "Text",
+  "Id": "BPF20wJwTk2TXVGFOmoYCA",
+  "Reference": "VghXUu22RkytYUIM7zleTQ/BPF20wJwTk2TXVGFOmoYCA",
+  "ParentRef": "VghXUu22RkytYUIM7zleTQ/mJRAR2uZYkuKn86Y-X0NGg",
+  "Created": "2024-01-08T13:24:11.0859986Z",
+  "Updated": "2024-01-08T13:24:11.0859986Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
